@@ -32,7 +32,7 @@ This tool was designed as a final project to demonstrate practical SQL skills, w
 
 ---
 
-## 🎮 Usage
+## [⬛️]>_ Usage
 
 - View your entire game collection by platform
 - Compare collections with friends and find games in common

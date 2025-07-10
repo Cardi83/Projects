@@ -1,8 +1,6 @@
-# 🧰 Projects Repo
+# 🧰 Projects
 
-![Languages](https://img.shields.io/github/languages/count/cardi83/Projects)
-![Top Language](https://img.shields.io/github/languages/top/cardi83/Projects)
-![Last Commit](https://img.shields.io/github/last-commit/cardi83/Projects)
+![Languages](https://img.shields.io/github/languages/count/cardi83/Projects) ![Top Language](https://img.shields.io/github/languages/top/cardi83/Projects) ![Last Commit](https://img.shields.io/github/last-commit/cardi83/Projects)
 
 A curated collection of coding projects by **Chris Cardi**, designed to showcase practical applications in areas like cybersecurity, data modeling, and automation.
 
